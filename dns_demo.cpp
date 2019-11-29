@@ -7,7 +7,7 @@
 int main(int argc, char* argv[])
 {
 	int nNetTimeout = 3000;
-	char *szDomainName = "baidu.com";
+	char *szDomainName = "Google.com";
 	const char *szDnsServer = "8.8.8.8";
 	dns demo;
 	
